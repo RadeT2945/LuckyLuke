@@ -4,9 +4,3 @@
 // Token rewards its holders with a 3% tax on each transaction.<br>
 // Each transaction will also add 5% to the SushiSwap liquidity for a better trading experience.<br>
 
-.____                     __             .____             __            <br>
-|    |     __ __   ____  |  | __ ___.__. |    |     __ __ |  | __  ____  <br>
-|    |    |  |  \_/ ___\ |  |/ /<   |  | |    |    |  |  \|  |/ /_/ __ \ <br>
-|    |___ |  |  /\  \___ |    <  \___  | |    |___ |  |  /|    < \  ___/ <br>
-|_______ \|____/  \___  >|__|_ \ / ____| |_______ \|____/ |__|_ \ \___  ><br>
-        \/            \/      \/ \/              \/            \/     \/ <br>
